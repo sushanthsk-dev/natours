@@ -1,0 +1,18 @@
+npm init
+npm i express
+npm i slugiy
+npm i jsonwebtoken
+npm i mongoose
+npm i dotenv
+npm i bcrypt
+npm i eslint prettier eslint-config-prettier eslint-plugin-prettier eslint-config-airbnb eslint-plugin-node eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react --save-dev
+npm i nodemailer
+npm i express-rate-limit
+npm i  xss-clean
+npm i hpp
+npm i helmet
+npm i express-mongo-sanitize
+
+
+For enviroment in winodws we need this 
+npm i -g win-node-env
