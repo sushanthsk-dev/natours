@@ -16,7 +16,7 @@ const mongoSanitize = require('express-mongo-sanitize');
 const xss = require('xss-clean');
 const hpp = require('hpp'); //http parameter pollution
 const cookieParser = require('cookie-parser');
-// create express
+// create express start
 const app = express();
 
 app.set('view engine', 'pug'); //setting for the view engine  // automatically supports most common engines out of the box
