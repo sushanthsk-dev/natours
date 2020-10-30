@@ -19,6 +19,7 @@ const cookieParser = require('cookie-parser');
 // create express start
 const app = express();
 
+
 app.set('view engine', 'pug'); //setting for the view engine  // automatically supports most common engines out of the box
 // dnt need to require pug all of these are included internally inside express
 // ---- Pug templates are actually called views in express
